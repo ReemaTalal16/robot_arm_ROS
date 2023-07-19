@@ -1,7 +1,7 @@
 # robot_arm_ROS
 ## Robot Arm Simulators on ROS
 
-https://s-m.com.sa/ros/ros.txt
+
 
 ![picture](robot_arm_pic.png
 )
@@ -26,3 +26,6 @@ https://s-m.com.sa/ros/ros.txt
 ````
 $ catkin_make
 ````
+
+code in text file 
+https://s-m.com.sa/ros/ros.txt
