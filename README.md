@@ -4,7 +4,7 @@
 > Add the “arduino_robot_arm” package to “src” folder
 
    $ cd ~/catkin_ws/src
-   $ sudo apt install git
+   $ sudo apt install git
    $ git clone https://github.com/smart-methods/arduino_robot_arm
 
 > Install all the dependencies
